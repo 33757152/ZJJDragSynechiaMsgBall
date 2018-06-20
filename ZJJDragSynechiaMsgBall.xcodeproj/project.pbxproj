@@ -7,15 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		890FBD7E20DA073600C7FA7C /* ZJJTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 890FBD7D20DA073600C7FA7C /* ZJJTableViewCell.m */; };
+		890FBD8220DA085700C7FA7C /* ZJJDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 890FBD8120DA085700C7FA7C /* ZJJDataModel.m */; };
+		890FBD8F20DA40B300C7FA7C /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8420DA40B200C7FA7C /* 1.png */; };
+		890FBD9020DA40B300C7FA7C /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8520DA40B200C7FA7C /* 0.png */; };
+		890FBD9120DA40B300C7FA7C /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8620DA40B200C7FA7C /* 2.png */; };
+		890FBD9220DA40B300C7FA7C /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8720DA40B300C7FA7C /* 6.png */; };
+		890FBD9320DA40B300C7FA7C /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8820DA40B300C7FA7C /* 8.png */; };
+		890FBD9420DA40B300C7FA7C /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8920DA40B300C7FA7C /* 5.png */; };
+		890FBD9620DA40B300C7FA7C /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8B20DA40B300C7FA7C /* 3.png */; };
+		890FBD9720DA40B300C7FA7C /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8C20DA40B300C7FA7C /* 4.png */; };
+		890FBD9820DA40B300C7FA7C /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8D20DA40B300C7FA7C /* 7.png */; };
+		890FBD9920DA40B300C7FA7C /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 890FBD8E20DA40B300C7FA7C /* 9.png */; };
 		89F71D5020D90040007B0BF2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 89F71D4F20D90040007B0BF2 /* AppDelegate.m */; };
 		89F71D5320D90040007B0BF2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89F71D5220D90040007B0BF2 /* ViewController.m */; };
 		89F71D5620D90040007B0BF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F71D5420D90040007B0BF2 /* Main.storyboard */; };
 		89F71D5820D90040007B0BF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89F71D5720D90040007B0BF2 /* Assets.xcassets */; };
 		89F71D5B20D90040007B0BF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F71D5920D90040007B0BF2 /* LaunchScreen.storyboard */; };
 		89F71D5E20D90040007B0BF2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 89F71D5D20D90040007B0BF2 /* main.m */; };
+		89F71D6620D90065007B0BF2 /* ZJJDragBallView.m in Sources */ = {isa = PBXBuildFile; fileRef = 89F71D6520D90065007B0BF2 /* ZJJDragBallView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		890FBD7C20DA073600C7FA7C /* ZJJTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJTableViewCell.h; sourceTree = "<group>"; };
+		890FBD7D20DA073600C7FA7C /* ZJJTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJTableViewCell.m; sourceTree = "<group>"; };
+		890FBD8020DA085700C7FA7C /* ZJJDataModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJDataModel.h; sourceTree = "<group>"; };
+		890FBD8120DA085700C7FA7C /* ZJJDataModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJDataModel.m; sourceTree = "<group>"; };
+		890FBD8420DA40B200C7FA7C /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		890FBD8520DA40B200C7FA7C /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		890FBD8620DA40B200C7FA7C /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		890FBD8720DA40B300C7FA7C /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		890FBD8820DA40B300C7FA7C /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		890FBD8920DA40B300C7FA7C /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		890FBD8B20DA40B300C7FA7C /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		890FBD8C20DA40B300C7FA7C /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		890FBD8D20DA40B300C7FA7C /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		890FBD8E20DA40B300C7FA7C /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
 		89F71D4B20D90040007B0BF2 /* ZJJDragSynechiaMsgBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJJDragSynechiaMsgBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89F71D4E20D90040007B0BF2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		89F71D4F20D90040007B0BF2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +53,9 @@
 		89F71D5A20D90040007B0BF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89F71D5C20D90040007B0BF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89F71D5D20D90040007B0BF2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		89F71D6420D90065007B0BF2 /* ZJJDragBallView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJDragBallView.h; sourceTree = "<group>"; };
+		89F71D6520D90065007B0BF2 /* ZJJDragBallView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJDragBallView.m; sourceTree = "<group>"; };
+		89F71D6720D90A18007B0BF2 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +69,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		890FBD7B20DA071500C7FA7C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				89F71D6420D90065007B0BF2 /* ZJJDragBallView.h */,
+				89F71D6520D90065007B0BF2 /* ZJJDragBallView.m */,
+				890FBD7C20DA073600C7FA7C /* ZJJTableViewCell.h */,
+				890FBD7D20DA073600C7FA7C /* ZJJTableViewCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		890FBD7F20DA084300C7FA7C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				890FBD8020DA085700C7FA7C /* ZJJDataModel.h */,
+				890FBD8120DA085700C7FA7C /* ZJJDataModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		890FBD8320DA40A300C7FA7C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				890FBD8520DA40B200C7FA7C /* 0.png */,
+				890FBD8420DA40B200C7FA7C /* 1.png */,
+				890FBD8620DA40B200C7FA7C /* 2.png */,
+				890FBD8B20DA40B300C7FA7C /* 3.png */,
+				890FBD8C20DA40B300C7FA7C /* 4.png */,
+				890FBD8920DA40B300C7FA7C /* 5.png */,
+				890FBD8720DA40B300C7FA7C /* 6.png */,
+				890FBD8D20DA40B300C7FA7C /* 7.png */,
+				890FBD8820DA40B300C7FA7C /* 8.png */,
+				890FBD8E20DA40B300C7FA7C /* 9.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		89F71D4220D90040007B0BF2 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +125,9 @@
 		89F71D4D20D90040007B0BF2 /* ZJJDragSynechiaMsgBall */ = {
 			isa = PBXGroup;
 			children = (
+				890FBD8320DA40A300C7FA7C /* Images */,
+				890FBD7F20DA084300C7FA7C /* Model */,
+				890FBD7B20DA071500C7FA7C /* View */,
 				89F71D4E20D90040007B0BF2 /* AppDelegate.h */,
 				89F71D4F20D90040007B0BF2 /* AppDelegate.m */,
 				89F71D5120D90040007B0BF2 /* ViewController.h */,
@@ -67,6 +137,7 @@
 				89F71D5920D90040007B0BF2 /* LaunchScreen.storyboard */,
 				89F71D5C20D90040007B0BF2 /* Info.plist */,
 				89F71D5D20D90040007B0BF2 /* main.m */,
+				89F71D6720D90A18007B0BF2 /* Header.h */,
 			);
 			path = ZJJDragSynechiaMsgBall;
 			sourceTree = "<group>";
@@ -129,7 +200,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				890FBD9720DA40B300C7FA7C /* 4.png in Resources */,
+				890FBD9820DA40B300C7FA7C /* 7.png in Resources */,
+				890FBD9620DA40B300C7FA7C /* 3.png in Resources */,
+				890FBD9320DA40B300C7FA7C /* 8.png in Resources */,
+				890FBD9220DA40B300C7FA7C /* 6.png in Resources */,
+				890FBD9120DA40B300C7FA7C /* 2.png in Resources */,
 				89F71D5B20D90040007B0BF2 /* LaunchScreen.storyboard in Resources */,
+				890FBD9020DA40B300C7FA7C /* 0.png in Resources */,
+				890FBD9920DA40B300C7FA7C /* 9.png in Resources */,
+				890FBD8F20DA40B300C7FA7C /* 1.png in Resources */,
+				890FBD9420DA40B300C7FA7C /* 5.png in Resources */,
 				89F71D5820D90040007B0BF2 /* Assets.xcassets in Resources */,
 				89F71D5620D90040007B0BF2 /* Main.storyboard in Resources */,
 			);
@@ -142,8 +223,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				890FBD8220DA085700C7FA7C /* ZJJDataModel.m in Sources */,
+				890FBD7E20DA073600C7FA7C /* ZJJTableViewCell.m in Sources */,
 				89F71D5320D90040007B0BF2 /* ViewController.m in Sources */,
 				89F71D5E20D90040007B0BF2 /* main.m in Sources */,
+				89F71D6620D90065007B0BF2 /* ZJJDragBallView.m in Sources */,
 				89F71D5020D90040007B0BF2 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

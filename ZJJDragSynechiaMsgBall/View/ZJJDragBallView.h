@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ZJJDragBallView.h
 //  ZJJDragSynechiaMsgBall
 //
 //  Created by 张锦江 on 2018/6/19.
@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ZJJDragBallView : UIView
+
+@property (nonatomic, assign) int msgCount;
 
 @end
-
